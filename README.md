@@ -56,11 +56,9 @@ The following branches were created and used in this project:
 ## 📸 Screenshots
 1. Git Repository Initialization && First Commit
 <img width="887" height="567" alt="Screenshot 2025-12-22 145050" src="https://github.com/user-attachments/assets/6c0bfe31-635d-4432-91f0-6a66377e4419" />
-This screenshot shows the initialization of the Git repository using `git init`.
 
 2. Branch Creation
 <img width="724" height="344" alt="Screenshot 2025-12-22 150040" src="https://github.com/user-attachments/assets/c15fdf40-cad1-4adb-859d-893a0cebb7d2" />
-This screenshot shows creation of multiple branches using `git branch`.
 
 3. Merge Operation
 <img width="955" height="483" alt="Screenshot 2025-12-22 151147" src="https://github.com/user-attachments/assets/07fa499f-8893-4a87-8914-4171406401a3" />
