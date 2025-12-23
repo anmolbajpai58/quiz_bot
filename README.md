@@ -1,6 +1,6 @@
 
 Project Title
-# Branching, Merging & Conflict Resolution Using Git Bash
+# HTML Chatbot Version Control Using Git Bash & GitHub
 
 # Project Description
 This project demonstrates practical usage of Git Bash and GitHub for version control.
